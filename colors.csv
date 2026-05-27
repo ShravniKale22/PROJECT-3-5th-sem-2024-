@@ -1,0 +1,8 @@
+red,Red,#FF0000,255,0,0
+green,Green,#00FF00,0,255,0
+blue,Blue,#0000FF,0,0,255
+black,Black,#000000,0,0,0
+white,White,#FFFFFF,255,255,255
+yellow,Yellow,#FFFF00,255,255,0
+purple,Purple,#800080,128,0,128
+orange,Orange,#FFA500,255,165,0 
