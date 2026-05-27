@@ -8,7 +8,7 @@ The project provides a user-friendly graphical interface where the detected colo
 
 The main objective of this project is to simplify color identification and improve accuracy in detecting colors from digital images. It can be used in various applications such as graphic design, image editing, robotics, automated systems, educational tools, and assistive technology for visually impaired people.
 
-Applications
+Applications include
 Image Processing
 Graphic Designing
 Robotics and Automation
